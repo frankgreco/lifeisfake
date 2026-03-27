@@ -124,10 +124,6 @@ export default function Support() {
 
       {/* Footer */}
       <footer className="absolute bottom-8 left-0 right-0 flex justify-center gap-4 text-sm text-gray-400">
-        <a href="/legal/terms" className="hover:text-gray-600 transition-colors">
-          Terms
-        </a>
-        <span>&middot;</span>
         <a href="/legal/privacy" className="hover:text-gray-600 transition-colors">
           Privacy
         </a>

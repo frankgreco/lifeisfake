@@ -15,7 +15,7 @@ export default function PrivacyPage() {
 
         <article className="prose prose-lg max-w-none">
           <p className="text-gray-700 leading-relaxed mb-6">
-            This Privacy Policy describes how Life is Fake LLC (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) collects, uses, stores, and shares your information when you use our mobile applications available on the Apple App Store (each, an &ldquo;App,&rdquo; and collectively, the &ldquo;Apps&rdquo;). This Privacy Policy is incorporated into and subject to our <a href="/legal/terms" className="text-blue-600 hover:text-blue-800 underline">End User License Agreement</a>.
+            This Privacy Policy describes how Life is Fake LLC (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) collects, uses, stores, and shares your information when you use our mobile applications available on the Apple App Store (each, an &ldquo;App,&rdquo; and collectively, the &ldquo;Apps&rdquo;). This Privacy Policy is incorporated into and subject to our End User License Agreement.
           </p>
 
           <p className="text-gray-700 leading-relaxed mb-6">
